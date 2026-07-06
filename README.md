@@ -59,7 +59,7 @@ Designed using a **Star Schema** with Fact and Dimension tables to support effic
 * Policy Analysis
 * Data Model
 
-*(Add screenshots here)*
+![Overview](images/1_Overview.png)
 
 ---
 
