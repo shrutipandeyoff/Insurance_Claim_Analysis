@@ -28,8 +28,7 @@ Designed using a **Star Schema** with Fact and Dimension tables to support effic
 * Executive KPI Dashboard
 * Claims Trend Analysis
 * Customer & Policy Analysis
-* Time-Series Reporting
-* Interactive Slicers & Drill-downs
+* Interactive Slicers
 
 ---
 
